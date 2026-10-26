@@ -1,0 +1,17 @@
+[
+  {
+    "quando": "2026-10-26T20:20:28",
+    "strumento": "Write",
+    "file": "/home/user/Book/capitoli/capitolo_01.md"
+  },
+  {
+    "quando": "2026-10-26T20:20:53",
+    "strumento": "Write",
+    "file": "/home/user/Book/capitoli/capitolo_02.md"
+  },
+  {
+    "quando": "2026-10-26T20:22:01",
+    "strumento": "Write",
+    "file": "/home/user/Book/knowledge/guida_di_stile.md"
+  }
+]
